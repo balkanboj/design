@@ -1,0 +1,30 @@
+html, body {
+    height: 100%;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: $background-color;
+}
+
+.main {
+    flex: 1 0 auto;
+}
+
+.header, .footer {
+    flex: 0 0 auto;
+}
+
+.main {
+    width: 100%;
+    max-width: 80%;
+    background-color: lavender;
+    border: 5px solid rgb(128, 128, 148);
+    color: $font-color;
+    font-weight: normal;
+    padding: 2rem;
+    margin: 0 auto;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

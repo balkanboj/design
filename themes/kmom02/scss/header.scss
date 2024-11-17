@@ -1,0 +1,32 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    padding: 2rem;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #34435E;
+    border-bottom: 5px solid #161f2f;
+}
+.site-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+    .title a{
+        color: #fff;
+    }
+}
+.nav a {
+    font-size: 1rem;
+    background-color: ghostwhite;
+    border: 5px solid lavender;
+    color: $font-color;
+    font-weight: 500;
+    padding: 15px;
+    border-radius: 15px;
+    text-decoration: none;
+}
+.nav a:hover {
+    background-color: lavender;
+}
