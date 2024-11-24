@@ -6,3 +6,8 @@
         }
     }
 }
+@media (max-width: 700px) {
+    .mSpan {
+        grid-column: span 3;
+    }
+}

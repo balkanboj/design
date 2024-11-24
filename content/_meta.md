@@ -1,5 +1,5 @@
 ---
-Logo: image/birdo.png
+Logo: image/fleur.png
 Tagline: My portfolio.
 Social:
     - title: Link till sidans github repo.
