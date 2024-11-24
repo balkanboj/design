@@ -1,24 +1,27 @@
 @media (max-width: 700px) {
-    .header {
-        display: block;
-        .site-header {
-            flex-direction: column;
-        }
+  .header {
+    display: block;
+
+    .site-header {
+      flex-direction: column;
     }
+  }
 }
+
 @media (max-width: 700px) {
-    .mSpan {
-        grid-column: span 3;
-    }
+  .mspan {
+    grid-column: span 3;
+  }
 }
+
 @media (max-width: 700px) {
-    .technology {
-        .menu {
-            display: none;
-        }
-        .article {
-            width: 100%;
-        }
+  .technology {
+    .menu {
+      display: none;
     }
 
+    .article {
+      width: 100%;
+    }
+  }
 }

@@ -1,52 +1,66 @@
 .landingpage {
-    display: grid;
-    gap: 1.96rem 1.96rem;
-    margin-bottom: 1.96rem;
+  display: grid;
+  gap: 1.96rem 1.96rem;
+  margin-bottom: 1.96rem;
 }
+
 .landingpage h1 {
-    grid-column: span 3;
-    justify-self: center;
+  grid-column: span 3;
+  justify-self: center;
 }
+
 .landingpage a {
-    color: blue;
+  color: blue;
 }
+
 .box {
-    border: 1px solid #ccc;
-    padding: 1.96rem;
+  border: 1px solid #ccc;
+  padding: 1.96rem;
 }
+
 .box:hover {
-    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.2);
 }
+
 .technology {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: start;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
 }
+
 .technology .article {
-    width: 60%;
+  width: 60%;
 }
+
 .technology .menu {
-    width: 30%;
+  width: 30%;
 }
+
 .css {
-    grid-column: span 1;
+  grid-column: span 1;
 }
+
 .html {
-    grid-column: span 2;
+  grid-column: span 2;
 }
+
 .javascript {
-    grid-column: span 2;
+  grid-column: span 2;
 }
+
 .php {
-    grid-column: span 1;
+  grid-column: span 1;
 }
+
 .python {
-    grid-column: span 3;
+  grid-column: span 3;
 }
+
 .git {
-    grid-column: span 1;
+  grid-column: span 1;
 }
+
 .sqlite {
-    grid-column: span 2;
+  grid-column: span 2;
 }
