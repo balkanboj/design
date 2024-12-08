@@ -10,7 +10,7 @@
 }
 
 .landingpage a {
-  color: blue;
+  color: $link-color;
 }
 
 .box {
@@ -21,12 +21,23 @@
 .box:hover {
   box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.2);
 }
-
+.mainT {
+  width: 100%;
+  max-width: 70%;
+  color: $font-color;
+  font-weight: normal;
+  padding: 2rem;
+  margin: 0 auto;
+  background-color: white;
+  min-height: 600px;
+  // margin-top: 20px;
+  // margin-bottom: 20px;
+}
 .technology {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-items: start;
+  align-items: center;
 }
 
 .technology .article {

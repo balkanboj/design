@@ -1,0 +1,44 @@
+.reports {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+}
+
+.reportpage {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.analysis {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.analysis .article {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80%;
+}
+
+.analysis .menu {
+  width: 30%;
+}
+.reportTable {
+  border-spacing: 4px; 
+  border-collapse: separate;
+  margin: auto;
+  border: 2px solid black;
+}
+.reportTable td {
+  border: 2px solid black;
+}  
+#reportImage{
+  margin: auto;
+  width: 80%;
+  border: 3px solid black;
+}
