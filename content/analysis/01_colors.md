@@ -1,6 +1,6 @@
 ---
 Title: Färgval
-Description: This is our colors page.
+Description: This is our load page.
 Template: analysis
 ---
 
@@ -15,7 +15,7 @@ Det ska också resoneras kring valet av färger samt vilken känsla webbplatsen 
 Urval
 -----------------------
 
-Valet av webbplatser för analysen gjordes inom kategorierna underhållning och musik. Webbplatserna som ska analyseras är webbplatser för musikerna: [The Weeknd][], [Psihomodo Pop][], [Rick James][]. Valet att analysera musikers webbsidor gjordes på grund av den stora efterfrågan på webbsidor inom musikbranschen. Många kommande artister samt välkända stjärnor vill ha egna sidor där de kan kommunicera med sina följare och dela sina senaste produkter. Analysen fokuserar också på olika typer av musiker, såsom moderna, internationella och äldre artister.
+Valet av webbplatser för analysen gjordes inom kategorierna underhållning och musik. Webbplatserna som ska analyseras är webbplatser för musikerna, [The Weeknd][], [Psihomodo Pop][], [Rick James][]. Valet att analysera musikers webbsidor gjordes på grund av den stora efterfrågan på webbsidor inom musikbranschen. Många kommande artister samt välkända stjärnor vill ha egna sidor där de kan kommunicera med sina följare och dela sina senaste produkter. Analysen fokuserar också på olika typer av musiker, såsom moderna, internationella och äldre artister.
 
 The Weeknd är, vid tiden för denna analys, en av de mest välkända moderna artisterna i världen. Han är för närvarande nummer ett på Spotify när det gäller månads lyssnare. Därför valdes hans webbsida för att representera en modern artists webbsida. Psihomodo Pop är ett kroatiskt punkband som under åren har byggt upp en kultstatus i de forna jugoslaviska länderna. Deras webbsida analyseras därför som ett exempel på en internationell artists webbsida. Slutligen ska Rick James webbsida analyseras som en äldre artists webbsida. Prince var en mycket välkänd och respekterad artist under 1980-talet.
 
