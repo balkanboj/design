@@ -55,6 +55,12 @@ Undersökningen har visat att många webbplatser följer liknande designprincipe
 Analys av egen webbplats
 -----------------------
 
+Webbsidans design använder sig av väldigt neutrala färger som svart, grått och vitt, vilket bidrar till en enklare användarupplevelse. Det som kännetecknar webbsidan generellt är färgerna och proportionerna på elementen, vilket gör sidan väldigt lättläst. Sidans above the fold visar en navbar och en "herobild" som fungerar som en välkomnande bild till webbsidan. Webbplatsens design stöder målet och syftet den försöker förmedla, och den känsla designen ger är enkel men lite varmare, tack vare temat som herobilden skapar. Sidan använder sig av designprinciper som skalor, grid-layout, färger, gradient och herobild. Artiklarna och rutorna på webbsidan har bra proportioner, vilket gör det enkelt för användaren att navigera. Färgerna är inte distraherande, vilket bidrar till en enkel men effektiv upplevelse. Gradienteffekten på herobilden ger en mjuk och naturlig stil, vilket bidrar till ett snyggt utseende. Samma struktur används över hela sidan, där sidor som Teknologier eller Rapporten använder en grid-layout, vilket organiserar och strukturerar upp webbsidan på ett snyggt sätt. Det finns också principer som framing lite överallt på sidan, där borders används.
+
+Det finns ändringar som man skulle kunna göra för att förbättra sidan ytterligare. Till exempel skulle man kunna använda linjer för att ge ett mer organiserat och snyggt utseende. Animationer hade också kunnat användas för att visa förmågor och göra att sidan verkar mer professionell.
+
+Uppdateringar som utfördes efter analysen inkluderade att lägga till hero-bilder, gradient, samt ändring av färger och fonter. Fler uppdateringar, såsom linjer och animationer, genomfördes inte på grund av tidsbrist och prioritering av aktiva arbeten.
+
 Referenser
 -----------------------
 

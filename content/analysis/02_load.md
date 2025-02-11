@@ -24,19 +24,19 @@ Undersökningen inleddes med att dokumentera laddningstider och användarbarhet 
 Resultat
 -----------------------
 
-<iframe class="frame-container" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRbeBTlBC3cupxeBs1FsdQ67JQs9sHyk7MzpGvTNc7QHmeTmma8T25GUEYcLgdae0R_XUZEfLENu9Vr/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe title="results" class="frame-container" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRbeBTlBC3cupxeBs1FsdQ67JQs9sHyk7MzpGvTNc7QHmeTmma8T25GUEYcLgdae0R_XUZEfLENu9Vr/pubhtml?widget=true&amp;headers=false"></iframe>
 
 Undersökningen visar hur lång laddningstid de tre olika sidorna har för data. Vissa sidor är bättre än andra på att ladda in data, och det kan bero på allt från högkvalitativa bilder till vilka resurser som används på sidorna.
 
-<img id="reportImage" src="../assets/img/AmazonW.png" alt="AW" />
+<img class="reportimage" src="../assets/img/AmazonW.png" alt="AW" />
 
 Amazons webbsida för dator gav ett mycket bra resultat vad gäller både prestanda och tillgänglighet. Webbsidan använder enkla div-element och text, samt undviker högkvalitativa bilder, vilket gör att den är mycket lätt att ladda in. Den är snabb och ger användaren enkel åtkomst till artiklar. Amazons datorversion visar dessutom mycket bättre resultat på First Contentful Paint (FCP) än mobilversionen, vilket innebär att laddningstiden är betydligt kortare på dator. Amazons Total Blocking Time (TBT) var bäst av alla de undersökta webbsidorna för både dator- och mobilversioner, med tider så låga som 80 ms för datorn och 160 ms för mobilen. Även när det gäller Speed Index är datorversionen snabbare än mobilversionen, med ett värde på 2,9 sekunder. Sammantaget hade Amazon den bästa prestandan av alla undersökta webbsidor, både för dator och mobil.
 
-<img id="reportImage" src="../assets/img/ZalandoW.png" alt="ZW" />
+<img class="reportimage" src="../assets/img/ZalandoW.png" alt="ZW" />
 
 Zalando hade generellt dåliga prestandaresultat jämfört med de andra webbsidorna som analyserades. Den sticker ut som den långsammaste sidan i flera mätkategorier. På dator är FCP relativt bra med 0,7 sekunder, men mobilversionen är ganska långsam med 3,2 sekunder. När det gäller TBT presterar Zalando bättre än ASOS, men betydligt sämre än Amazon. TBT för dator är nästan sju gånger högre än Amazons resultat. Zalando har det långsammaste Speed Index i mätningen, särskilt på mobil där 7,4 sekunder är mer än dubbelt så långsamt som ASOS och Amazon. Mobilversionen har en mycket långsam LCP, vilket innebär att stora visuella element tar lång tid att ladda. Datorversionen är bättre. Zalando har den sämsta CLS på mobil, vilket betyder att layouten är instabil och kan leda till en dålig användarupplevelse. Prestandapoängen för Zalando är lägst av de tre webbsidorna, vilket bekräftar att det finns stora optimeringsbehov.
 
-<img id="reportImage" src="../assets/img/AsosW.png" alt="ASW" />
+<img class="reportimage" src="../assets/img/AsosW.png" alt="ASW" />
 
 ASOS hade generellt blandade prestandaresultat jämfört med de andra webbsidorna som analyserades. På dator är FCP bra med 0,6 sekunder, medan mobilversionen också presterar relativt bra med 2,2 sekunder. När det gäller TBT har ASOS däremot höga värden, 2 030 ms för dator och 1 500 ms för mobil. Detta är sämre än både Zalando och Amazon. ASOS presterar bättre på Speed Index jämfört med Zalando, men är fortfarande långsammare än Amazon. Mobilversionen har ett Speed Index på 5,5 sekunder, medan datorn når 1,5 sekunder. LCP är också relativt långsam, särskilt på mobil där den når 4,2 sekunder, vilket innebär att stora visuella element tar tid att ladda in. Datorversionen är dock snabbare med 1,1 sekunder. När det gäller CLS presterar ASOS ganska bra med 0,024 på mobil och 0,014 på dator. Prestandapoängen för ASOS är något högre än Zalando på både mobil och dator, men lägre än Amazon, vilket visar att det finns utrymme för förbättringar.
 

@@ -12,17 +12,17 @@ body {
   flex: 1 0 auto;
 }
 
-.header, .footer {
+.header .footer {
   flex: 0 0 auto;
 }
 
-.imgContainer {
+.imgcontainer {
   position: relative;
   height: 500px; /* Set a height for the container */
   width: 100%; /* Ensure it takes the full width */
 }
 
-.heroImg {
+.heroimg {
   width: 100%;
   height: 100%;
   object-fit: cover; /* Ensures the image covers the container */
@@ -37,7 +37,8 @@ body {
   background: linear-gradient(to top, rgba(0, 0, 0, 0) 90%, $header-main 100%);
   pointer-events: none; /* Ensures the gradient does not interfere with other interactions */
 }
-.gradientT {
+
+.gradienttwo {
   position: absolute;
   top: 0;
   left: 0;
@@ -47,7 +48,7 @@ body {
   pointer-events: none; /* Ensures the gradient does not interfere with other interactions */
 }
 
-#hometitle {
+.hometitle {
   position: absolute;
   margin-top: 15%;
   margin-left: 67%;
@@ -71,7 +72,7 @@ body {
   min-height: 600px;
   align-items: center;
   align-self: center;
-  box-shadow: 0px 5px 10px 5px rgba(0,0.2,0,0.2);
+  box-shadow: 0px 5px 10px 5px rgba(0, 0.2, 0, 0.2);
 }
 
 a {

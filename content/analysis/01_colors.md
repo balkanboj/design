@@ -30,9 +30,9 @@ För denna uppgift har man använt verktyget [ColorZilla][] och det används fö
 Resultat
 -----------------------
 
-<table class="reportTable">
+<table class="reporttable">
     <tr>
-        <img id="reportImage" src="../assets/img/TheWeekndSite.png" alt="TW" />
+        <img class="reportimage" src="../assets/img/TheWeekndSite.png" alt="TW" />
     </tr>
     <tr>
     <td style="height: 50px; width: 50px; background-color: #B6140A">
@@ -47,10 +47,10 @@ Webbsidan använder huvudsakligen tre typsnitt, Helvetica Neue Light, Druk Wide 
 
 The Weeknds webbsida har ett mörkt, skräckaktigt tema med färgerna svart, röd och cream. Paletten passar artistens dark-pop-genre men kan vara svår för färgblinda användare. Tre grund typsnitt används, Helvetica Neue Light, Druk Wide Web och Impact. Helvetica Neue Light kan vara svårläst på grund av sin tunna stil och lilla storlek och inkonsekvent användning av andra typsnitt gör designen rörig. Mer enhetlighet i färger och typsnitt skulle förbättra tillgängligheten och användarupplevelsen.
 
-<table class="reportTable">
+<table class="reporttable">
     <tr>
-        <img id="reportImage" src="../assets/img/PsihomodoPop.png" alt="TW" />
-        <img id="reportImage" src="../assets/img/PsihomodoPopUt.png" alt="TW" />
+        <img class="reportimage" src="../assets/img/PsihomodoPop.png" alt="TW" />
+        <img class="reportimage" src="../assets/img/PsihomodoPopUt.png" alt="TW" />
     </tr>
     <tr>
     <td style="height: 50px; width: 50px; background-color: #ED6A5A">
@@ -66,10 +66,10 @@ Webbsidan använder två typsnitt, Teko och Open Sans. Teko verkar vara webbsida
 
 Psihomodo Pops webbsida använder ljusare, mer användarvänliga färger än The Weeknds, med salmon som accentfärg och #daae81 som en kompletterande färg. Svart och vitt används som neutrala basfärger, medan grått och mörkblått stödjer designen. Typsnitten Teko och Open Sans används, där Teko är huvudtypsnittet men kan vara svårt att läsa i liten storlek, medan Open Sans är lättläst och används för längre text.
 
-<table class="reportTable">
+<table class="reporttable">
     <tr>
-        <img id="reportImage" src="../assets/img/RickJames.png" alt="TW" />
-        <img id="reportImage" src="../assets/img/RickJamesT.png" alt="TW" />
+        <img class="reportimage" src="../assets/img/RickJames.png" alt="TW" />
+        <img class="reportimage" src="../assets/img/RickJamesT.png" alt="TW" />
     </tr>
     <tr>
     <td style="height: 50px; width: 50px; background-color: #CA1D1F">
