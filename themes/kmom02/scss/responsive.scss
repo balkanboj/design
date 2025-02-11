@@ -8,6 +8,15 @@
   }
 }
 
+@media (max-width: 760px) {
+  #hometitle{
+    display: none;
+  }
+}
+
+
+
+
 @media (max-width: 700px) {
   .mspan {
     grid-column: span 3;
